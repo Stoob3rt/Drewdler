@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.kyrylokuzyk.primetween": {
+      "tarball": {
+        "hash": "1f3582e96c5e",
+        "mtime": 1699091513000,
+        "size": 307060,
+        "localPath": "C:\\Users\\John C\\Desktop\\Game V3\\Assets\\Plugins\\PrimeTween\\internal\\com.kyrylokuzyk.primetween.tgz"
+      }
+    }
+  }
+}
